@@ -1,33 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="db8b07b9-d87c-44ba-a9ed-880da8b35efd" name="Changes" comment="" />
+    <list default="true" id="db8b07b9-d87c-44ba-a9ed-880da8b35efd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/portfolio/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/analog/1-A024820-R1-16-17A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/analog/2-A024820-R1-13-14A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/analog/3-A024819-R1-17-19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/analog/4-A024820-R1-20-21A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/analog/5-A024820-R1-19-20A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/analog/6-A024820-R1-17-18A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/lab/1-IMG_7055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/lab/2-IMG_7075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/lab/3-IMG_7112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/lab/4-IMG_7135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/lab/5-IMG_7202.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/lab/6-IMG_7235.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/lab/7-IMG_7250.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/macro/1-IMG_7516.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/macro/2-IMG_7777.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/macro/3-IMG_7781.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/macro/4-IMG_7782.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/macro/5-IMG_7887.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/macro/6-IMG_7894.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/macro/7-IMG_7909.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/img/macro/8-IMG_7916.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Portfolio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TomWainberg_Portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TomWainberg_Portfolio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TomWainberg_Portfolio/js/resizePortaitHero.js" beforeDir="false" afterPath="$PROJECT_DIR$/TomWainberg_Portfolio/js/resizePortaitHero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TomWainberg_Portfolio/static/images/portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TomWainberg_Portfolio/styles/scss/_general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/TomWainberg_Portfolio/styles/scss/_general.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TomWainberg_Portfolio/styles/scss/index/_general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/TomWainberg_Portfolio/styles/scss/index/_general.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/doc/TOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/doc/css.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/doc/extend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/doc/faq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/doc/html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/doc/js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/doc/misc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/doc/usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/humans.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/js/vendor/modernizr-3.11.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/tile-wide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/tile.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;coralieAlexandru&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1c55357e-621b-4b0c-a5e3-f5ca141a554c" />
+        <option name="url" value="https://github.com/jagerall/Portfolio.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2WQreD37qZlIpwBknkme09aBCV0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/coraliealexandru/Documents/Perso/Portfolio",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;coco&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/coraliealexandru/Documents/Perso/Portfolio&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/css" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,6 +136,12 @@
       <option name="presentableId" value="Default" />
       <updated>1696675738733</updated>
       <workItem from="1696675739744" duration="44000" />
+      <workItem from="1698582648033" duration="72000" />
+      <workItem from="1698582835617" duration="123000" />
+      <workItem from="1698582969024" duration="10031000" />
+      <workItem from="1706003230905" duration="840000" />
+      <workItem from="1706005318304" duration="55000" />
+      <workItem from="1711227244196" duration="3000" />
     </task>
     <servers />
   </component>
