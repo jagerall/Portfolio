@@ -1,5 +1,7 @@
 
-const Handlebars = require('handlebars');
+import Handlebars from "handlebars";
+const template = Handlebars.compile("Name: {{name}}");
+console.log(template({ name: "Nils" }));
 
 const container = document.getElementById('navbar-logo');
 const circle1 = document.getElementById('logo-circle1');
