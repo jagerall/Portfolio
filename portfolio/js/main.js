@@ -1,7 +1,10 @@
 
-import Handlebars from "handlebars";
-const template = Handlebars.compile("Name: {{name}}");
-console.log(template({ name: "Nils" }));
+var source = document.getElementById("entry-template").innerHTML;
+var template = Handlebars.compile(source);
+var path = require('path');
+
+var context = { title: "My New Post", body: "This is my first post!" };
+var html = template(context);
 
 const container = document.getElementById('navbar-logo');
 const circle1 = document.getElementById('logo-circle1');
