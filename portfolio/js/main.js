@@ -1,3 +1,5 @@
+const Handlebars = require("handlebars");
+const template = Handlebars.compile("Name: {{name}}");
 
 var source = document.getElementById("entry-template").innerHTML;
 var template = Handlebars.compile(source);
