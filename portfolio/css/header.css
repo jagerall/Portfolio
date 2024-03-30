@@ -1,4 +1,4 @@
-nav {
+.navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -116,6 +116,12 @@ nav {
   padding: 1rem;
 }
 
+.open-menu {
+  width: 100vw;
+  height: 100vh;
+  background-color: var( --main-grey);
+
+}
 
 
 
